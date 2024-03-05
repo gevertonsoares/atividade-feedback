@@ -1,0 +1,21 @@
+body {
+    font-family: monospace;
+    background-color: #DCF2F1
+}
+
+.local-bg {
+    background-color: #0F1035;
+}
+
+.card {
+    background-color: #7FC7D9
+}
+
+.transform {
+    background-color: #365486;
+    transition: transform 0.3s;
+}
+
+.transform:hover {
+    transform: scale(1.1);
+}
